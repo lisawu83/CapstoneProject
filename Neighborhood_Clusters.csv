@@ -1,0 +1,47 @@
+﻿OBJECTID,WEB_URL,NAME,NBH_NAMES,Geo_NAME,Latitude,Longitude,Shape_Length,Shape_Area,TYPE
+1,http://planning.dc.gov/,Cluster 39,"Congress Heights, Bellevue, Washington Highlands",Congress Heights,38.84107731,-76.99794993,10711.66801,4886462.548,Original
+2,http://planning.dc.gov/,Cluster 38,"Douglas, Shipley Terrace",Douglas,38.84757145,-76.97964457,8229.486324,2367958.026,Original
+3,http://planning.dc.gov/,Cluster 36,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",Woodlands,38.85565773,-76.98034771,4746.344457,1119573.04,Original
+4,http://planning.dc.gov/,Cluster 27,"Near Southeast, Navy Yard",Navy Yard,38.87838447,-77.00062711,7286.968902,1619166.894,Original
+5,http://planning.dc.gov/,Cluster 32,"River Terrace, Benning, Greenway, Dupont Park",River Terrace,38.89370455,-76.95768066,11251.01282,4286254.187,Original
+6,http://planning.dc.gov/,Cluster 8,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",Downtown,38.90052615,-77.02917452,7343.048621,2937441.575,Original
+7,http://planning.dc.gov/,Cluster 5,"West End, Foggy Bottom, GWU",West End,38.90555034,-77.05188247,5884.746359,1358616.412,Original
+8,http://planning.dc.gov/,Cluster 30,"Mayfair, Hillbrook, Mahaning Heights",Mayfair,38.90111564,-76.95129459,7599.065608,2524926.932,Original
+9,http://planning.dc.gov/,Cluster 31,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",Deanwood,38.90410727,-76.93280089,8570.352866,3330853.544,Original
+10,http://planning.dc.gov/,Cluster 7,"Shaw, Logan Circle",Logan Circle,38.90981631,-77.02534038,5004.594673,1463803.329,Original
+11,http://planning.dc.gov/,Cluster 29,"Eastland Gardens, Kenilworth",Eastland Gardens,38.9053294,-76.94307039,5385.979724,1596970.24,Original
+12,http://planning.dc.gov/,Cluster 23,"Ivy City, Arboretum, Trinidad, Carver Langston",Ivy City,38.91038948,-76.99162689,10168.65583,3516218.87,Original
+13,http://planning.dc.gov/,Cluster 4,"Georgetown, Burleith/Hillandale",Georgetown,38.90955581,-77.0647956,8517.966404,3381461.674,Original
+14,http://planning.dc.gov/,Cluster 6,"Dupont Circle, Connecticut Avenue/K Street",Dupont Circle,38.9121281,-77.0409837,6838.303702,2286330.269,Original
+15,http://planning.dc.gov/,Cluster 3,"Howard University, Le Droit Park, Cardozo/Shaw",Ledroit Park,38.92235482,-77.01961027,6710.243826,1860056.686,Original
+16,http://planning.dc.gov/,Cluster 9,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",Southwest Waterfront,38.88501657,-77.02031687,9886.495963,3517245.141,Original
+17,http://planning.dc.gov/,Cluster 33,"Capitol View, Marshall Heights, Benning Heights",Capitol View,38.88997845,-76.92708591,8741.855323,3467772.252,Original
+18,http://planning.dc.gov/,Cluster 13,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",Spring Valley,38.93931138,-77.09672424,15858.74721,9082501.128,Original
+19,http://planning.dc.gov/,Cluster 20,"North Michigan Park, Michigan Park, University Heights",North Michigan Park,38.94564416,-76.99366629,9970.618021,3977875.95,Original
+20,http://planning.dc.gov/,Cluster 12,"North Cleveland Park, Forest Hills, Van Ness",North Cleveland Park,38.94787867,-77.07177356,7341.575741,3218065.455,Original
+21,http://planning.dc.gov/,Cluster 18,"Brightwood Park, Crestwood, Petworth",Brightwood Park,38.95574765,-77.02487139,11770.03883,6496990.066,Original
+22,http://planning.dc.gov/,Cluster 11,"Friendship Heights, American University Park, Tenleytown",Friendship Heights,38.95690678,-77.08385441,9023.803202,4188960.909,Original
+23,http://planning.dc.gov/,Cluster 19,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",Fort Totten,38.94942994,-77.00812809,13540.69144,3605480.919,Original
+24,http://planning.dc.gov/,Cluster 17,"Takoma, Brightwood, Manor Park",Takoma,38.9764616,-77.0215583,11038.98718,4479444.144,Original
+25,http://planning.dc.gov/,Cluster 16,"Colonial Village, Shepherd Park, North Portal Estates",Colonial Village,38.98678956,-77.04109381,7164.139149,2245554.484,Original
+26,http://planning.dc.gov/,Cluster 10,"Hawthorne, Barnaby Woods, Chevy Chase",Hawthorne,38.98088256,-77.05593445,9994.966292,4943821.893,Original
+27,http://planning.dc.gov/,Cluster 28,Historic Anacostia,Anacostia,38.86318571,-76.98467764,5447.120059,1339009.309,Original
+28,http://planning.dc.gov/,Cluster 35,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",Fairfax Village,38.86345267,-76.95163007,6606.101905,1906664.272,Original
+29,http://planning.dc.gov/,Cluster 37,"Sheridan, Barry Farm, Buena Vista",Barry Farm,38.85368806,-76.96766003,7600.043391,2052485.336,Original
+30,http://planning.dc.gov/,Cluster 34,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",Twining,38.87558791,-76.96084721,11797.93614,4926723.486,Original
+31,http://planning.dc.gov/,Cluster 25,"Union Station, Stanton Park, Kingman Park",Kingman Park,38.89489782,-76.99424171,10380.96726,4149922.965,Original
+32,http://planning.dc.gov/,Cluster 1,"Kalorama Heights, Adams Morgan, Lanier Heights",Adams Morgan,38.91566044,-77.05119471,6217.668679,1894375.687,Original
+33,http://planning.dc.gov/,Cluster 21,"Edgewood, Bloomingdale, Truxton Circle, Eckington",Edgewood,38.92519887,-77.00073929,13288.23344,6030978.008,Original
+34,http://planning.dc.gov/,Cluster 2,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",Columbia Heights,38.92800829,-77.03058603,9153.209237,3400110.402,Original
+35,http://planning.dc.gov/,Cluster 22,"Brookland, Brentwood, Langdon",Brookland,38.93140439,-76.98441359,9641.417127,4813915.094,Original
+36,http://planning.dc.gov/,Cluster 24,"Woodridge, Fort Lincoln, Gateway",Woodridge,38.93402103,-76.96863953,10481.01148,3714822.73,Original
+37,http://planning.dc.gov/,Cluster 14,"Cathedral Heights, McLean Gardens, Glover Park",Cathedral Heights,38.93427242,-77.07986043,8639.627114,2942410.888,Original
+38,http://planning.dc.gov/,Cluster 15,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",Cleveland Park,38.93609787,-77.06440174,10359.34874,3983622.807,Original
+39,http://planning.dc.gov/,Cluster 26,"Capitol Hill, Lincoln Park",Capitol Hill,38.88362076,-76.99847748,9590.530313,4503507.256,Original
+40,,Cluster 40,Walter Reed,Walter Reed,#N/A,#N/A,2759.045586,479913.7066,Additional
+41,,Cluster 41,Rock Creek Park,Rock Creek Park,#N/A,#N/A,18951.83376,6588886.465,Additional
+42,,Cluster 42,Observatory Circle,Observatory Circle,#N/A,#N/A,1990.057774,312061.7699,Additional
+43,,Cluster 43,Saint Elizabeths,Saint Elizabeths,#N/A,#N/A,5905.220834,1555639.406,Additional
+44,,Cluster 44,Joint Base Anacostia-Bolling,Anacostia Naval Station - Boiling Air Force Base,#N/A,#N/A,17316.88475,7887463.416,Additional
+45,,Cluster 46,"Arboretum, Anacostia River",Arboretum,38.91485976,-76.97248975,28464.93043,6031305.595,Additional
+46,,Cluster 45,"National Mall, Potomac River",National Mall - West Potomac Park,#N/A,#N/A,57862.29989,21175570.92,Additional
